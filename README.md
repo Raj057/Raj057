@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raj057
-- 👀 I’m interested in Coding but i do have a passion for racing.
+- 👀 I’m interested in Coding but I do have a passion for racing.
 - 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on anything as I'm here to learn as much as I can.
 <!---
